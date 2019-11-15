@@ -1,6 +1,6 @@
-update=22/05/2015 07:44:53
+update=Fri 15 Nov 2019 04:42:50 PM EST
 version=1
-last_client=kicad
+last_client=eeschema
 [general]
 version=1
 RootSch=
@@ -30,4 +30,3 @@ NetIExt=net
 [eeschema]
 version=1
 LibDir=
-[eeschema/libraries]

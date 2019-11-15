@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name xmos_project)(type Legacy)(uri ${KIPRJMOD}/../../library/xmos_project.lib)(options "")(descr ""))
+)

@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L xmos:xs1-a8a-64-fb96 U4
+L xs1-a8a-64-fb96 U4
 U 1 1 554375AB
 P 2250 2900
 F 0 "U4" H 2300 2800 60  0000 C CNN
@@ -25,25 +25,25 @@ F 3 "" H 2250 2900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L xmos:xs1-a8a-64-fb96 U4
-U 1 1 55437641
+L xs1-a8a-64-fb96 U4
+U 2 1 55437641
 P 2250 6050
 F 0 "U4" H 2300 5950 60  0000 C CNN
 F 1 "xs1-a8a-64-fb96" H 2250 6050 60  0000 C CNN
 F 2 "xmos:BGA96" H 2250 6050 60  0001 C CNN
 F 3 "" H 2250 6050 60  0000 C CNN
-	1    2250 6050
+	2    2250 6050
 	1    0    0    -1  
 $EndComp
 $Comp
-L xmos:xs1-a8a-64-fb96 U4
-U 1 1 5543769C
+L xs1-a8a-64-fb96 U4
+U 3 1 5543769C
 P 5100 2950
 F 0 "U4" H 5150 2850 60  0000 C CNN
 F 1 "xs1-a8a-64-fb96" H 5100 2950 60  0000 C CNN
 F 2 "xmos:BGA96" H 5100 2950 60  0001 C CNN
 F 3 "" H 5100 2950 60  0000 C CNN
-	1    5100 2950
+	3    5100 2950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -409,7 +409,7 @@ PFLASH_SO
 Text Label 3750 1800 0    60   ~ 0
 PFLASH_SI
 $Comp
-L xmos_project:w25x40cl U1
+L w25x40cl U1
 U 1 1 5543A584
 P 1950 7900
 F 0 "U1" H 1950 7900 60  0000 C CNN
@@ -646,7 +646,7 @@ X0D18
 Text Label 1500 9550 2    60   ~ 0
 X0D19
 $Comp
-L xmos_project:NC7WZ17 U2
+L NC7WZ17 U2
 U 1 1 55463A73
 P 5450 10250
 F 0 "U2" H 5350 10750 59  0000 C CNN
@@ -665,7 +665,7 @@ XTMS
 Text Label 4700 10150 0    59   ~ 0
 XLiTMS
 $Comp
-L xmos_project:NC7WZ17 U3
+L NC7WZ17 U3
 U 1 1 55463A82
 P 5450 10850
 F 0 "U3" H 5350 11350 59  0000 C CNN
